@@ -1,5 +1,5 @@
-## 📝 Training
+### 📝 Training
 sh train.sh
 
-## 📝 Testing
+### 📝 Testing
 sh test.sh
