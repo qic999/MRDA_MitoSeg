@@ -18,7 +18,3 @@ The code will be released soon.
 # TO DO
 
 # Citation
-<<<<<<< HEAD
-=======
-
->>>>>>> 14b79039807d13d42d67702dcf32fbbf79ca6444
