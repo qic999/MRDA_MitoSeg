@@ -8,7 +8,7 @@ MRDA is a data augmentation method for 3D mitochondria segmentation by synthesiz
 This repository provides the official implementation of MRDA.
 
 <b>Mask Rearranging Data Augmentation for 3D Mitochondria Segmentation</b> <br/>
-[Qi Chen](https://scholar.google.com/citations?user=4Q5gs2MAAAAJ&hl=en&scioq=Qi+Chen+ustc)<sup>1</sup>, [Mingxing Li](https://scholar.google.com/citations?user=-pfkprkAAAAJ&hl=en)<sup>1</sup>, [Jiacheng Li](http://home.ustc.edu.cn/~jclee/)<sup>1</sup>,  [Bo Hu]<sup>1</sup>, [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/)<sup>1</sup>, <br/>
+[Qi Chen](https://scholar.google.com/citations?user=4Q5gs2MAAAAJ&hl=en&scioq=Qi+Chen+ustc)<sup>1</sup>, [Mingxing Li](https://scholar.google.com/citations?user=-pfkprkAAAAJ&hl=en)<sup>1</sup>, [Jiacheng Li](http://home.ustc.edu.cn/~jclee/)<sup>1</sup>,  Bo Hu<sup>1</sup>, [Zhiwei Xiong](http://staff.ustc.edu.cn/~zwxiong/)<sup>1</sup>, <br/>
 <sup>1 </sup>University of Science and Technology of China<br/>
 [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-16440-8_4.pdf) | [code](https://github.com/qic999/MRDA_MitoSeg) | slides | poster 
 
