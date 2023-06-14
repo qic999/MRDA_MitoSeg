@@ -1,7 +1,7 @@
 ## Mask Rearranging Data Augmentation for 3D Mitochondria Segmentation (MICCAI 2022)
 
 MRDA is a data augmentation method for 3D mitochondria segmentation by synthesizing diverse 3D EM images.
-<img src="MRDA.png" width = "480" height = "345" alt="" align=center />
+<img src="MRDA.png"  alt="" align=center />
 
 ## Paper
 This repository provides the official implementation of MRDA.
