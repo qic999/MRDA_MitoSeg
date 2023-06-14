@@ -18,7 +18,7 @@ This repository provides the official implementation of MRDA.
 
 
 ## 💡 Acknowledgement
-This project is built upon numerous previous projects. Especially, we'd like to thank the contributors of the following github repositories:
+This project is built upon previous projects. Especially, we'd like to thank the contributors of the following github repositories:
 - [Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [MitoEM2021-Challenge](https://github.com/Limingxing00/MitoEM2021-Challenge)
 - [pytorch_connectomics](https://github.com/zudi-lin/pytorch_connectomics)
